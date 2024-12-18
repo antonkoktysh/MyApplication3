@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Define the units array -->
+    <string-array name="units_array">
+        <item>Градусы</item>
+        <item>Радианы</item>
+    </string-array>
+</resources>
